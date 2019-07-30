@@ -1,0 +1,126 @@
+﻿img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius: 8px;
+}
+
+h1 {
+  font-family: 'Caveat Brush';
+  font-size: 60px;
+}
+
+h2 {
+  font-family: 'Caveat Brush';
+}
+
+h5 {
+  color: #B9B9A2;
+}
+
+p {
+  color: #B9B9A2;
+  font-size: 20px;
+  font-family: Acme;
+}
+
+ 
+.list {
+  font-family: Acme;
+  font-size: 18px;
+}
+
+body {
+  text-align: center;
+  background-color: #433E3E;
+}
+
+.one {
+  background-color: #FECFCF; 
+}
+
+.two {
+  background-color: #CFF3FE; 
+}
+
+.three {
+  background-color: #FECFFD; 
+}
+
+.four {
+  background-color: #E5FECF; 
+}
+
+.five {
+  background-color: #FEF0CF; 
+}
+
+.six {
+  background-color: #EDCFFE; 
+}
+
+.seven {
+  background-color: #D4CFFE; 
+}
+
+.eight {
+  background-color: #FDFECF; 
+}
+
+.nine {
+  background-color: #FEE8CF; 
+}
+
+.ten {
+  background-color: #ECCBF2; 
+}
+
+.eleven {
+  background-color: #E5F2CB; 
+}
+
+.twelve {
+  background-color: #F9D8E8; 
+}
+
+.thirteen {
+  background-color: #D8F9E5; 
+}
+
+.fourteen {
+  background-color: #FEFAB8; 
+}
+
+.fifteen {
+  background-color: #C4FEB8; 
+}
+
+.sixteen {
+  background-color: #FECDB8; 
+}
+
+.seventeen {
+  background-color: #FEB8B8; 
+}
+
+.eighteen {
+  background-color: #E0B8FE; 
+}
+
+.nineteen {
+  background-color: #C5F1FE; 
+}
+
+.twenty {
+  background-color: #CFFEC5; 
+}
+
+.twenty-one {
+  background-color: #FEDEC5; 
+}
+
+.twenty-two {
+  background-color: #FEFEA6; 
+}
+
