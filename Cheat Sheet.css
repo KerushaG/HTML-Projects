@@ -1,0 +1,49 @@
+﻿table {
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 2px solid indigo;
+}
+
+th {
+  text-transform: uppercase;
+  background-color: thistle;
+  text-align: center;
+}
+
+table {
+  background-color: LightYellow;
+}
+
+td {
+  text-align: left;
+  vertical-align: middle;
+}
+
+body {
+  background-color: mediumpurple;
+  font-family: 'Cantora One';
+}
+
+h1 {
+  font-family: Bungee;
+  text-align: center;
+  text-decoration: underline;
+}
+
+p {
+  font-size: 20px;
+  text-align: center;
+}
+
+.property {
+  text-transform: uppercase;
+  background-color: gold;
+  color: black;
+  text-align: center;
+}
+
+a {
+  color: black;
+}
